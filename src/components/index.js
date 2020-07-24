@@ -5,3 +5,4 @@ export { default as Categories } from './Categorie/Categories';
 export { default as Logo } from './Header/Logo';
 export { default as PizzaBlock } from './PizzaBlock/PizzaBlock';
 export { default as SortPopup } from './Sort/SortPopup';
+// export { default as MyLoader } from './PizzaBlock/Loader';
