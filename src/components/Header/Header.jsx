@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   const { totalPrice, count } = useSelector(({ cart }) => cart);
-  console.log(count);
+  // console.log(count);
   return (
     <div className="header">
       <div className="container">
